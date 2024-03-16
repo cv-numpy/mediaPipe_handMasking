@@ -1,0 +1,1 @@
+finger edge line detection
